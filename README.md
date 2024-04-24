@@ -35,7 +35,7 @@ AB-Movies-Backend is a comprehensive backend service designed to support a front
 ### Step 1: Clone the Repository
 
 ```sh
-git clone https://github.com/zainab3702/AB-Movies-Backend.git
+git clone https://github.com/zainab3702/AB-Movies-Backend-main.git
 cd AB-Movies-Backend
 ```
 
